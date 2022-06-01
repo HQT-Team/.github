@@ -1,4 +1,4 @@
-# <img src="https://github.com/HQT-Team/.github/blob/main/profile/imgs/logo.png" width="4%"> WELCOME TO HQT TEAM :wave:
+# <img src="https://github.com/HQT-Team/.github/blob/main/profile/imgs/logo.gif" width="3%"> WELCOME TO HQT TEAM :wave:
 
 We are students from the 5th term of the Summer 2022 semester from FPT University HCM Campus. 
 
